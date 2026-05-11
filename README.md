@@ -11,7 +11,7 @@
 [![Platform](https://img.shields.io/badge/Platform-Windows-0078D6?logo=windows)](https://github.com/HariKumar-DS/aura-ai)
 [![Built with Vibe](https://img.shields.io/badge/Built%20with-Vibe%20Coding-FF6B6B)](https://github.com/HariKumar-DS/aura-ai)
 
-![AURA AI](assets/hero.jpeg)
+![logo ](assets/hero.jpeg)
 
 ---
 
